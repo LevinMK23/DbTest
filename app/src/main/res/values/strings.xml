@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Db Test</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+    <string name="text">Text</string>
+    <string name="title">Title</string>
+    <string name="plus">+</string>
+</resources>
